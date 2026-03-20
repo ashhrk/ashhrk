@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B&height=200&section=header&text=Ashish%20Kumar%20Harinkhede&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20QA%20Engineer%20%7C%20FunctionalTesting%20%7C%20Automation%20%7C%20Performance%20Testing&descAlignY=58&descColor=BDC3C7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B&height=200&section=header&text=Ashish%20Kumar%20Harinkhede&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20QA%20Engineer%20%7C%20Web3(DeFi)%20%7C%20Automation%20%7C%20Performance%20Testing&descAlignY=58&descColor=BDC3C7" />
 
 </div>
 
