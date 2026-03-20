@@ -23,7 +23,7 @@ Currently focused on **Web3 QA, smart contract testing, and AI-augmented quality
 ```yaml
 Name        : Ashish Kumar Harinkhede
 Role        : Senior QA Engineer / SDET
-Speciality  : Web3 · DeFi · Automation · Security Testing
+Speciality  : Functional Testing · DeFi · Automation · Performance Testing
 Experience  : 8+ Years across 5 companies, 13 projects
 Location    : India
 Status      : Open to opportunities
