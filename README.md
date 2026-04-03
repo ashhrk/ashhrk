@@ -37,7 +37,7 @@ AI Stack    : Claude · ChatGPT · Gemini · Cursor IDE · Antigravity IDE
 ### 🤖 Automation Testing
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-9B59B6?style=for-the-badge&logo=appium&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Appium-9B59B6?style=for-the-badge&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logoColor=white)
 ![Synpress](https://img.shields.io/badge/Synpress-1B3A6B?style=for-the-badge&logoColor=white)
 
